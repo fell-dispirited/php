@@ -1,0 +1,11 @@
+{
+    "name": "myframe/xyz",
+    "description": "this is a test",
+    "authors": [
+        {
+            "name": "xyz",
+            "email": "863970236@qq.com"
+        }
+    ],
+    "require": {}
+}
