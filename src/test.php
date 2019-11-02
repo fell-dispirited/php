@@ -7,4 +7,8 @@
  */
 
 return  'this is just the test';
+<<<<<<< HEAD
 return two;
+=======
+return new git files;
+>>>>>>> master
